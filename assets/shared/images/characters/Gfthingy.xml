@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Gfthingy.png"><SubTexture name="Gfthingy Idle0000" x="0" y="0" width="169" height="101" frameX="-61" frameY="-150" frameWidth="300" frameHeight="300" />
+<SubTexture name="Gfthingy Idle0001" x="0" y="101" width="172" height="97" frameX="-60" frameY="-154" frameWidth="300" frameHeight="300" />
+<SubTexture name="Gfthingy Idle0002" x="169" y="0" width="173" height="99" frameX="-60" frameY="-152" frameWidth="300" frameHeight="300" />
+</TextureAtlas>

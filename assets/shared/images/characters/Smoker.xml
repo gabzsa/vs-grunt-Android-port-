@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Smoker.png">
+<SubTexture name="Smoker Idle0000" x="0" y="129" width="145" height="119" frameX="-27" frameY="-90" frameWidth="300" frameHeight="300" />
+<SubTexture name="Smoker Idle0001" x="0" y="367" width="141" height="112" frameX="-26" frameY="-97" frameWidth="300" frameHeight="300" />
+<SubTexture name="Smoker Idle0002" x="279" y="367" width="137" height="106" frameX="-21" frameY="-103" frameWidth="300" frameHeight="300" />
+<SubTexture name="Smoker Idle0003" x="141" y="367" width="138" height="111" frameX="-27" frameY="-98" frameWidth="300" frameHeight="300" />
+<SubTexture name="Smoker Idle0004" x="0" y="129" width="145" height="119" frameX="-27" frameY="-90" frameWidth="300" frameHeight="300" />
+<SubTexture name="Smoker Up0000" x="0" y="0" width="127" height="129" frameX="-31" frameY="-80" frameWidth="300" frameHeight="300" />
+<SubTexture name="Smoker Up0001" x="127" y="0" width="135" height="124" frameX="-28" frameY="-85" frameWidth="300" frameHeight="300" />
+<SubTexture name="Smoker Right0000" x="135" y="248" width="122" height="117" frameX="-63" frameY="-92" frameWidth="300" frameHeight="300" />
+<SubTexture name="Smoker Right0001" x="262" y="0" width="120" height="119" frameX="-63" frameY="-90" frameWidth="300" frameHeight="300" />
+<SubTexture name="Smoker Down0000" x="382" y="115" width="121" height="113" frameX="-39" frameY="-96" frameWidth="300" frameHeight="300" />
+<SubTexture name="Smoker Down0001" x="0" y="248" width="135" height="119" frameX="-37" frameY="-90" frameWidth="300" frameHeight="300" />
+<SubTexture name="Smoker Left0000" x="382" y="228" width="141" height="113" frameX="-19" frameY="-96" frameWidth="300" frameHeight="300" />
+<SubTexture name="Smoker Left0001" x="382" y="0" width="148" height="115" frameX="-24" frameY="-94" frameWidth="300" frameHeight="300" />
+</TextureAtlas>

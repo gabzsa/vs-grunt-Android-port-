@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Bunny.png">
+<SubTexture name="Bunny Idle0000" x="0" y="0" width="138" height="135" frameX="-107" frameY="-34" frameWidth="378" frameHeight="300" />
+<SubTexture name="Bunny Idle0001" x="403" y="0" width="142" height="128" frameX="-107" frameY="-42" frameWidth="378" frameHeight="300" />
+<SubTexture name="Bunny Idle0002" x="403" y="128" width="139" height="127" frameX="-109" frameY="-42" frameWidth="378" frameHeight="300" />
+<SubTexture name="Bunny Idle0003" x="0" y="0" width="138" height="135" frameX="-107" frameY="-34" frameWidth="378" frameHeight="300" />
+<SubTexture name="Bunny Up0000" x="0" y="135" width="149" height="134" frameX="-102" frameY="-35" frameWidth="378" frameHeight="300" />
+<SubTexture name="Bunny Up0001" x="149" y="135" width="149" height="134" frameX="-102" frameY="-35" frameWidth="378" frameHeight="300" />
+<SubTexture name="Bunny Left0000" x="138" y="0" width="265" height="135" frameX="-111" frameY="-30" frameWidth="378" frameHeight="300" />
+<SubTexture name="Bunny Left0001" x="0" y="269" width="263" height="133" frameX="-107" frameY="-32" frameWidth="378" frameHeight="300" />
+<SubTexture name="Bunny Down0000" x="303" y="402" width="145" height="116" frameX="-103" frameY="-54" frameWidth="378" frameHeight="300" />
+<SubTexture name="Bunny Down0001" x="403" y="255" width="139" height="118" frameX="-106" frameY="-51" frameWidth="378" frameHeight="300" />
+<SubTexture name="Bunny Right0000" x="0" y="402" width="152" height="127" frameX="-102" frameY="-42" frameWidth="378" frameHeight="300" />
+<SubTexture name="Bunny Right0001" x="152" y="402" width="151" height="126" frameX="-103" frameY="-43" frameWidth="378" frameHeight="300" />
+</TextureAtlas>
