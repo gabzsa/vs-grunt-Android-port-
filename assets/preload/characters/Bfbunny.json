@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-3,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF HEY"
+		},
+		{
+			"offsets": [
+				14,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "BF hit"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "BF idle shaking"
+		},
+		{
+			"offsets": [
+				-10,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "boyfriend dodge"
+		},
+		{
+			"offsets": [
+				294,
+				267
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "boyfriend attack"
+		},
+		{
+			"offsets": [
+				-40,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pre-attack",
+			"indices": [],
+			"name": "bf pre attack"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-215,
+				-10
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "BFbunny Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-215,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "BFbunny Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-220,
+				-11
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "BFbunny Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-214,
+				-11
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "BFbunny Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-208,
+				-9
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "BFbunny Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-213,
+				-11
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BFbunny LOSERL"
+		},
+		{
+			"offsets": [
+				-221,
+				-12
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BFbunny MISSEDD"
+		},
+		{
+			"offsets": [
+				-226,
+				-13
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BFbunny FailureU"
+		},
+		{
+			"offsets": [
+				-224,
+				-8
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BFbunny RATR"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/BFbunny",
+	"position": [
+		-100,
+		640
+	],
+	"healthicon": "bigballs",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		60,
+		-170
+	],
+	"sing_duration": 4,
+	"scale": 2.2
+}

@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-3,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF HEY"
+		},
+		{
+			"offsets": [
+				14,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "BF hit"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "BF idle shaking"
+		},
+		{
+			"offsets": [
+				-10,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "boyfriend dodge"
+		},
+		{
+			"offsets": [
+				294,
+				267
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "boyfriend attack"
+		},
+		{
+			"offsets": [
+				-40,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pre-attack",
+			"indices": [],
+			"name": "bf pre attack"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-195,
+				120
+			],
+			"anim": "idle",
+			"fps": 8,
+			"name": "Bf Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-195,
+				120
+			],
+			"anim": "singLEFT",
+			"fps": 8,
+			"name": "Bf Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-195,
+				120
+			],
+			"anim": "singDOWN",
+			"fps": 8,
+			"name": "Bf Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-195,
+				120
+			],
+			"anim": "singUP",
+			"fps": 8,
+			"name": "Bf Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-195,
+				120
+			],
+			"loop": false,
+			"fps": 8,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Bf RIGHTY"
+		},
+		{
+			"offsets": [
+				-195,
+				120
+			],
+			"loop": false,
+			"fps": 8,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Bf eftMISS"
+		},
+		{
+			"offsets": [
+				-195,
+				120
+			],
+			"loop": false,
+			"fps": 8,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Bf ownMISS"
+		},
+		{
+			"offsets": [
+				-195,
+				120
+			],
+			"loop": false,
+			"fps": 8,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Bf pMISS"
+		},
+		{
+			"offsets": [
+				-195,
+				120
+			],
+			"loop": false,
+			"fps": 8,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Bf ightMISS"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Bfthingy",
+	"position": [
+		0,
+		420
+	],
+	"healthicon": "bfz",
+	"flip_x": false,
+	"healthbar_colors": [
+		99,
+		155,
+		255
+	],
+	"camera_position": [
+		200,
+		-420
+	],
+	"sing_duration": 4,
+	"scale": 3.8
+}
